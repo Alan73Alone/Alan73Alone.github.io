@@ -28,9 +28,9 @@ menu:
 # Code Blocks Settings
 # --------------------------------------
 
-code_blocks: mac
+code_blocks:
   # Code block theme: darker / pale night / light / ocean / false
-  theme: light
+  theme: mac
   macStyle: false
   # Code block height limit (unit: px)
   height_limit: false
