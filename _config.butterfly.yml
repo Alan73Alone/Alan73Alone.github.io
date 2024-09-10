@@ -64,12 +64,13 @@ avatar:
 disable_top_img: false
 
 # If the banner of page not setting, it will show the default_top_img
-default_top_img:
+default_top_img: https://s2.loli.net/2024/09/10/Ud6cgfWXreO3w4L.jpg
 
 # The banner image of index page
 index_img: https://s2.loli.net/2024/09/10/Ud6cgfWXreO3w4L.jpg
+
 # The banner image of archive page
-archive_img:
+archive_img: 
 
 # Note: tag page, not tags page
 tag_img:
@@ -100,7 +101,8 @@ cover:
   aside_enable: true
   archives_enable: true
   # When cover is not set, the default cover is displayed
-  default_cover:
+  default_cover: 
+  #文章背景图，可放多个，随机选择
     # - xxx.jpg
 
 # Replace Broken Images
