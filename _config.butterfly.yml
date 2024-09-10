@@ -28,7 +28,7 @@ menu:
 # Code Blocks Settings
 # --------------------------------------
 
-code_blocks:
+code_blocks: mac
   # Code block theme: darker / pale night / light / ocean / false
   theme: light
   macStyle: false
