@@ -67,8 +67,7 @@ disable_top_img: false
 default_top_img:
 
 # The banner image of index page
-index_img: https://i0.hdslb.com/bfs/new_dyn/836aa0565919d32b848db7b1b57e4264396143746.jpg@1052w_!web-dynamic.avif
-
+index_img: public/images/meishuse.png
 # The banner image of archive page
 archive_img:
 
