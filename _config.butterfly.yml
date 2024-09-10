@@ -67,7 +67,7 @@ disable_top_img: false
 default_top_img:
 
 # The banner image of index page
-index_img: public/images/meishuse.png
+index_img: https://s2.loli.net/2024/09/10/Ud6cgfWXreO3w4L.jpg
 # The banner image of archive page
 archive_img:
 
