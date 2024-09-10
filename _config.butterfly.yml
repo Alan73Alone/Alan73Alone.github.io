@@ -57,7 +57,7 @@ social:
 favicon: /img/favicon.png
 
 avatar:
-  img: /img/butterfly-icon.png
+  img: https://s2.loli.net/2024/09/10/oGMjycYQfLS4AsJ.jpg
   effect: false
 
 # Disable all banner images
